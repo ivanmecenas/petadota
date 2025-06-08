@@ -11,10 +11,10 @@
 - Pesquisar animais por id, raça ou tipo
 
 ## Tecnologias Utilizadas
-- Java
-- Spring Boot
+- Java 17
+- Spring Boot 2.7.5
 - Banco de Dados H2
-- Maven
+- Maven 3.9.9
 
 ## Estrutura do Projeto
 ```
