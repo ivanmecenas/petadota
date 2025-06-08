@@ -56,7 +56,7 @@ petadota
 ## Instruções de Configuração
 1. Clone o repositório:
 ```
-git clone <url-do-repositório>
+git clone https://github.com/ivanmecenas/petadota.git
 ```
 2. Navegue até o diretório do projeto:
 ```
